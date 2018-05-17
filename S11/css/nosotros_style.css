@@ -1,0 +1,149 @@
+style.css
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	overflow-x: hidden;
+}
+
+header {
+	width: 100%
+}
+
+.banner-image {
+	position: relative;
+	width: 100%;
+}
+
+nav {
+	position: relative;
+	text-align: center;
+	color: white;
+	margin-top: -47%;
+}
+
+.logonav {
+	width: 200px; 
+	height: 200px;
+	margin-top: -8%;
+	margin-left: -85%;
+}
+
+ul {
+	position: absolute;
+	top: 8px;
+    right: 16px;
+    margin-right: 15px;
+}
+
+li {
+	text-transform: uppercase;
+	display: inline-flex;
+	margin-right: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: red;
+}
+
+a:active {
+	color: white;
+}
+
+nav h2 {
+	font-weight: 400;
+
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 19%;
+}
+
+article {
+}
+
+.hey {
+	margin-top: 30%;
+}
+
+.you {
+	margin-top: -10%;
+}
+
+.hola {
+	margin-top: -10%;
+	margin-bottom: 
+}
+
+.artsect {
+	color: white;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+	position: absolute;
+	top: 1600px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+footer {
+	background-color: #aa2e23;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+.social {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-size: 30px;
+	font-weight: 800;
+	text-align: center;
+	padding-top: 2%;
+	margin-left: -90%;
+	margin-top: -5%;
+}
+
+.ru{
+	padding-top: -5%;
+	padding-bottom: 1%;
+}
+
+.acropolis {
+	margin-left: 3%;
+	text-align: center;
+	margin-top: -10%;
+}
+
+.tres {
+	margin-left: 3%;
+	padding-top: -17%;
+	text-align: center;
+	margin-top: -16%;
+}
+
+.tres p  {
+	font-size: 1em;
+}
+
